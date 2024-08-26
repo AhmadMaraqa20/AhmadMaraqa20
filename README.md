@@ -24,9 +24,11 @@ Enthusiastic Computer Engineering student at the University of Jordan with exper
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f556c7472616c79746963732d3232323232323f7374796c653d666c6174266c6f676f3d756c7472616c7974696373266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/0ea7c22b-192b-4989-981d-da907745ab2c)
 
 
-📫 Contact Me
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/810355d0-5cfb-45cd-b57d-c445f8fe877f)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d4431343833363f7374796c653d666c6174266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/4c20923c-3b4f-41c7-ba80-c3a1392d9b5d)
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-maraqa-224369262)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmadmaraka2002@gmail.com)
+
 
 
 💡 Interests:
